@@ -1,0 +1,28 @@
+generated: '2026-07-19'
+method: searched
+source: https://www.govdash.com/security
+standards:
+- id: fedramp-moderate
+  conforms: true
+  evidence: FedRAMP Moderate Equivalency; listed FedRAMP Ready on fedramp.gov Marketplace (FR2617333263)
+- id: nist-sp-800-53
+  conforms: true
+  evidence: Controls aligned to NIST SP 800-53 Moderate baseline platform-wide
+- id: dfars-252.204-7012
+  conforms: true
+  evidence: DFARS 252.204-7012 compliance for CUI across storage, processing, transmission
+- id: cmmc
+  conforms: partial
+  evidence: CMMC referenced in security FAQ/resources; alignment claimed, certification level not published
+- id: fips-140-cryptography
+  conforms: true
+  evidence: FIPS-validated cryptography; TLS 1.2+ in transit, AES-256 at rest
+- id: oauth2
+  conforms: true
+  evidence: Salesforce sync authenticates via a Connected App using OAuth 2.0 (integrations)
+- id: soc2
+  conforms: false
+  evidence: No SOC 2 report published on the security page
+- id: iso-27001
+  conforms: false
+  evidence: No ISO 27001 certification published on the security page

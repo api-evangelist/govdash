@@ -1,0 +1,21 @@
+generated: '2026-07-19'
+method: searched
+source: live probes of https://govdash.com and https://www.govdash.com
+host: https://www.govdash.com
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+notes: >-
+  No /.well-known/ discovery documents are published on either the apex or www
+  host. GovDash exposes an llms.txt at https://support.govdash.com/llms.txt
+  (captured under llms/), and a vulnerability disclosure policy at
+  https://www.govdash.com/vulnerability-report (security@govdash.com) rather
+  than a machine-readable security.txt.

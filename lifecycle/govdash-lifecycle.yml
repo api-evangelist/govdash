@@ -1,0 +1,17 @@
+generated: '2026-07-19'
+method: searched
+source: https://www.govdash.com/service-level-agreement
+versioning:
+  scheme: event-version-prefix
+  current: v1
+  evidence: Webhook event types are namespaced v1.* (e.g. v1.opportunity.create)
+sla:
+  url: https://www.govdash.com/service-level-agreement
+deprecation:
+  policy_url: null
+  sunset_header: null
+status_page: null
+notes: >-
+  GovDash publishes a Service Level Agreement but no public developer status
+  page, versioning policy page, or deprecation/sunset policy was found. The only
+  observed API versioning signal is the v1.* webhook event namespace.

@@ -1,8 +1,17 @@
 aid: govdash
 name: Govdash
-description: 'Govdash is a company surfaced as a portfolio company of northzone and added to the API Evangelist
-  network as a stub for enrichment. Sector: enterprise; ai. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: >-
+  GovDash is an end-to-end AI platform for government contracting (GovCon),
+  helping companies discover, capture, price, propose, and manage federal, state,
+  local, and education contracts. Its product suite spans Discover (automated bid
+  matching from SAM.gov, GSA eBuy, GovWin, PIEE, and SLED portals), Capture (a
+  GovCon CRM and pipeline), Pricer, Proposal (compliant proposal generation), and
+  Contract lifecycle management, unified by Dash, an AI agent that synthesizes
+  data and executes workflows. GovDash is FedRAMP Ready / Moderate-equivalent,
+  NIST SP 800-53 and DFARS 252.204-7012 aligned for CUI, and integrates with
+  Salesforce, SharePoint, Okta/Google SSO, Slack, and Microsoft Office. It
+  exposes outbound webhooks (Svix) for opportunity lifecycle events. Founded 2021
+  (YC W22); raised a $30M Series B in January 2026.
 url: https://raw.githubusercontent.com/api-evangelist/govdash/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +19,30 @@ x-backed-by:
 - northzone
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.govdash.com/opengraph-image?f0fc2d766b3d3aad
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
-- Enterprise; Ai
+- Government Contracting
+- GovCon
+- Artificial Intelligence
+- Proposal Management
+- Capture Management
+- Public Sector
+- Enterprise
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +52,46 @@ maintainers:
 common:
 - type: Website
   url: https://govdash.com
+- type: Documentation
+  url: https://support.govdash.com/docs
+- type: Support
+  url: https://support.govdash.com
+- type: Blog
+  url: https://www.govdash.com/blog
+- type: Pricing
+  url: https://www.govdash.com/pricing
+- type: SignUp
+  url: https://www.govdash.com/book-a-demo
+- type: Login
+  url: https://dashboard.govdash.us/login
+- type: TermsOfService
+  url: https://www.govdash.com/pages/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.govdash.com/pages/privacy-policy
+- type: Security
+  url: https://www.govdash.com/vulnerability-report
+- type: Compliance
+  url: https://www.govdash.com/security
+- type: LLMsTxt
+  url: llms/govdash-llms.txt
+- type: WellKnown
+  url: well-known/govdash-well-known.yml
+- type: Webhooks
+  url: asyncapi/govdash-webhooks.yml
+- type: AsyncAPI
+  url: asyncapi/govdash-webhooks-asyncapi.yml
+- type: VulnerabilityDisclosure
+  url: security/govdash-vulnerability-disclosure.yml
+- type: TrustCenter
+  url: security/govdash-trust-center.yml
+- type: Conformance
+  url: conformance/govdash-conformance.yml
+- type: DomainSecurity
+  url: security/govdash-domain-security.yml
+- type: Lifecycle
+  url: lifecycle/govdash-lifecycle.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

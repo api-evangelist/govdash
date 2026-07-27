@@ -1,0 +1,28 @@
+generated: '2026-07-19'
+method: searched
+source: https://support.govdash.com/docs/webhooks
+spec_type: Webhooks
+summary: >-
+  GovDash publishes outbound webhooks for Opportunity lifecycle events. Delivery
+  is managed by Svix, which handles reliable dispatch, retries, and delivery
+  observability. Webhooks are configured per organization in Settings > Webhooks
+  (Add New Webhook) with a receiving endpoint URL. Payload authenticity is
+  verified with the Svix Signing Secret provided in the dashboard.
+delivery:
+  provider: Svix
+  configuration: Settings > Webhooks > Add New Webhook (per organization)
+  verification: Svix Signing Secret (standard Svix signature verification)
+  observability: delivery attempts and status visible on the webhook details page
+  event_catalog: Event Catalog in the Webhooks Admin Dashboard (per-event payload schema)
+events:
+- type: v1.opportunity.create
+  description: Emitted when a new opportunity is created.
+- type: v1.opportunity.update
+  description: Emitted when an existing opportunity is updated.
+- type: v1.opportunity.delete
+  description: Emitted when an opportunity is deleted.
+docs: https://support.govdash.com/docs/webhooks
+notes: >-
+  GovDash does not publish an AsyncAPI document; the machine-readable per-event
+  payload schemas live in the in-app Event Catalog. A generated AsyncAPI view of
+  these documented events is captured at asyncapi/govdash-webhooks-asyncapi.yml.

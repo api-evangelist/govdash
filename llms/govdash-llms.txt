@@ -1,0 +1,157 @@
+# GovDash Help Center
+
+> Knowledge base documentation for GovDash Help Center.
+
+## v1
+
+- [Setting up your workspace](https://support.govdash.com/docs/setup-your-workspace.md)
+- [GovDash Dashboard & Navigation](https://support.govdash.com/docs/govdash-interface.md): Explore the GovDash Dashboard for team insights, key metrics, quick actions, and seamless navigation to enhance your team's performance in 30 days.
+- [Adding New Members To Your GovDash Team](https://support.govdash.com/docs/adding-new-members-to-your-govdash-team.md)
+- [Uploading Your Contracts](https://support.govdash.com/docs/uploading-contracts.md): Streamline contract management with GovDash's Contract Cloud, ensuring seamless integration of past performance records and document uploads for proposals.
+- [Uploading and Managing Documents](https://support.govdash.com/docs/uploading-and-managing-documents.md): Manage your documents in the GovDash Data Library: upload, rename, and delete files like resumes and technical documentation easily.
+- [Discover and create opportunities](https://support.govdash.com/docs/discover-and-create-opportunities.md)
+- [Finding Opportunities using Discover](https://support.govdash.com/docs/finding-opportunities-using-discover-1.md): Unlock tailored opportunities with GovDash's Bid Match, ranking prospects based on your past performance for optimal success in bidding.
+- [Adding Opportunities to the Pipeline](https://support.govdash.com/docs/adding-opportunities-to-the-pipeline-1.md): Learn how to add opportunities to your pipeline using Bid Match, bulk import, or manual entry with GovDash for efficient project management.
+- [Transitioning Opportunities to Proposal](https://support.govdash.com/docs/transitioning-opportunities-to-proposal.md)
+- [Building your proposal](https://support.govdash.com/docs/building-your-proposal.md)
+- [Generate a Proposal Outline](https://support.govdash.com/docs/generate-a-proposal-outline-1.md): Create winning proposals with GovDash's Proposal Cloud. Upload documents, generate outlines, and highlight your team's strengths effortlessly.
+- [Editing Your Outline](https://support.govdash.com/docs/editing-your-outline-1.md): Create compliant proposals with GovDash's annotated outline tools, section controls, writing plans, and citation management for optimal performance.
+- [Generating and Downloading Proposals](https://support.govdash.com/docs/generating-and-downloading-proposals-1.md): Generate your proposal in GovDash easily by approving key sections, then download or export it to SharePoint when ready. Get started today!
+- [Onboarding with GovDash](https://support.govdash.com/docs/onboarding-with-govdash.md): Empower your government contracting business with GovDash's technology, insights, and tools for opportunity identification, proposal development, and success.
+- [Strategic Planning & Account Kickoff](https://support.govdash.com/docs/strategic-planning-account-kickoff.md)
+- [Foundations and Contract](https://support.govdash.com/docs/your-guide-to-a-success-foundations-and-contract-meeting.md)
+- [Capture, Pipeline, and Dash](https://support.govdash.com/docs/how-to-guides.md)
+- [Proposal Deep Dive](https://support.govdash.com/docs/how-to-guides-1.md)
+- [Welcome to the GovDash Help Center](https://support.govdash.com/docs/welcome-to-the-govdash-help-center.md)
+- [Discover](https://support.govdash.com/docs/discover.md)
+- [SLED (State, Local, Education) in Discover](https://support.govdash.com/docs/sled-in-discover.md): Discover state procurement opportunities across the U.S. with direct links to official bid websites for seamless access to vital contracts.
+- [Finding Opportunities using Discover](https://support.govdash.com/docs/finding-opportunities-using-discover.md): Unlock tailored opportunities with GovDash's Bid Match, ranking prospects based on your past performance for optimal success in bidding.
+- [Create and Manage Recommendation Profiles](https://support.govdash.com/docs/create-and-manage-saved-searches.md): Manage and create Saved Searches in Bid Match to quickly find opportunities with tailored filters and control your email digest settings.
+- [Discover Opportunity Pages](https://support.govdash.com/docs/discover-opportunity-records.md): Access Opportunity Records to identify, assess, and collect information for compelling proposals, including key details and funding insights.
+- [GSA eBuy Integration Setup](https://support.govdash.com/docs/gsa-ebuy-integration-setup-1.md)
+- [GovWin Integration](https://support.govdash.com/docs/govwin-integration-1.md)
+- [Capture](https://support.govdash.com/docs/capture.md)
+- [Pipeline](https://support.govdash.com/docs/pipeline.md)
+- [Managing Teaming Partners](https://support.govdash.com/docs/managing-teaming-partners.md)
+- [Capture Phases and Submission Stages](https://support.govdash.com/docs/capture-phases-submission-stages.md): Discover how the GovDash Opportunities data model operates, including key fields like Submission Stage and Capture Phase for efficient workflow management.
+- [Activity, Tasks, and Notes](https://support.govdash.com/docs/activity-tasks-and-notes.md): Streamline your team's workflow with GovDash Pipeline's Timeline feature—track tasks, communicate, and manage updates all in one place.
+- [Customizing the Pipeline and Capture Settings](https://support.govdash.com/docs/customizing-the-pipeline.md): Customize your pipeline view with Kanban or Table options, rename phases, and adjust colors for better opportunity tracking and management.
+- [Adding Opportunities to the Pipeline](https://support.govdash.com/docs/adding-opportunities-to-the-pipeline.md): Learn how to add opportunities to your pipeline using Bid Match, bulk import, or manual entry with GovDash for efficient project management.
+- [Managing Capture and Solutioning In Pipeline](https://support.govdash.com/docs/capture-and-solutioning.md): Optimize your government contracting with GovDash's capture planning and solutioning tools to align strengths with agency needs and enhance proposal readiness.
+- [Solicitation Documents & Shreds](https://support.govdash.com/docs/solicitation-documents.md)
+- [Transitioning Opportunities to Proposal](https://support.govdash.com/docs/transitioning-opportunities-to-proposal-cloud.md)
+- [Outcome Tracking](https://support.govdash.com/docs/outcome-tracking.md)
+- [Gate Reviews](https://support.govdash.com/docs/gate-reviews.md): Streamline your opportunity reviews with GovDash Gate Reviews, enabling team collaboration, insights, and automated presentations for effective decision-making.
+- [Capability Matrices](https://support.govdash.com/docs/capability-matrices.md): Automate capability matrices in GovDash to streamline document processing, generate relevancy scores, and manage task areas efficiently.
+- [Dynamic Reporting](https://support.govdash.com/docs/dynamic-reporting-2.md)
+- [Pricer](https://support.govdash.com/docs/pricer.md)
+- [GovDash Pricer Introduction](https://support.govdash.com/docs/govdash-pricer-introduction.md)
+- [Pricer Dashboard](https://support.govdash.com/docs/pricer-dashboard.md)
+- [Overview](https://support.govdash.com/docs/overview-tab.md)
+- [Labor Categories](https://support.govdash.com/docs/labor-categories-tab.md)
+- [ODCs & Materials](https://support.govdash.com/docs/odcs-materials-tab.md)
+- [Work Breakdown Structure](https://support.govdash.com/docs/work-breakdown-structure-tab.md)
+- [Basis of Estimate (BOE)](https://support.govdash.com/docs/basis-of-estimate-boe-tab.md)
+- [Indirect Rates](https://support.govdash.com/docs/indirect-rates-tab.md)
+- [Line Items](https://support.govdash.com/docs/line-items-tab.md)
+- [Pricer Settings](https://support.govdash.com/docs/pricer-settings.md)
+- [Proposal](https://support.govdash.com/docs/proposal.md)
+- [Proposal Templates](https://support.govdash.com/docs/proposal-templates.md)
+- [Proposal Template Requirements](https://support.govdash.com/docs/proposal-template-requirements.md): Ensure your template meets GovDash's .docx requirements, including styles and headings, for seamless proposal processing. Reach out for support!
+- [Using Proposal Templates](https://support.govdash.com/docs/using-proposal-templates.md): Email your proposal template to GovDash, select from unlimited templates, and easily manage them for customized proposal downloads.
+- [Creating and Editing Proposals](https://support.govdash.com/docs/creating-proposals.md)
+- [Generate a Proposal Outline](https://support.govdash.com/docs/generate-a-proposal-outline.md): Create winning proposals with GovDash's Proposal Cloud. Upload documents, generate outlines, and highlight your team's strengths effortlessly.
+- [Proposal Outline Templates](https://support.govdash.com/docs/proposal-outline-templates.md)
+- [Adding Amendments, Solicitation Documents, and Adjusting Document Types](https://support.govdash.com/docs/adding-amendments-solicitation-docs.md)
+- [Compliance Matrix and Shreds](https://support.govdash.com/docs/compliance-matrix-and-review-mode.md)
+- [Editing Your Outline](https://support.govdash.com/docs/editing-your-outline.md): Create compliant proposals with GovDash's annotated outline tools, section controls, writing plans, and citation management for optimal performance.
+- [Adding Solution Information](https://support.govdash.com/docs/adding-solution-information.md)
+- [Past Performance](https://support.govdash.com/docs/utilizing-past-performance.md): Learn how to upload contracts and utilize past performance in your GovDash proposals, enhancing your contract inventory and proposal formatting.
+- [Selecting Key Personnel/Labor Categories](https://support.govdash.com/docs/selecting-key-personnel.md)
+- [Generating and Downloading Proposals](https://support.govdash.com/docs/generating-and-downloading-proposals.md): Generate your proposal in GovDash easily by approving key sections, then download or export it to SharePoint when ready. Get started today!
+- [Versions and Snapshots](https://support.govdash.com/docs/versions-and-snapshots.md)
+- [Creating Multiple Proposals Under One Opportunity](https://support.govdash.com/docs/creating-multiple-proposals-under-one-opportunity.md)
+- [Writing Compelling Proposal Content with GovDash](https://support.govdash.com/docs/writing-compelling-proposal-content-with-govdash.md): Create impactful proposals with GovDash by leveraging your contract inventory and providing clear inputs for tailored, compelling content that stands out.
+- [Proposal Archiving and Outcome Tracking](https://support.govdash.com/docs/proposal-archiving-and-outcome-tracking.md): Track your proposal outcomes, archive statuses, and transition won proposals to the Contract Cloud with ease. Manage your proposals effectively today!
+- [Dynamic Reporting](https://support.govdash.com/docs/dynamic-reporting-1.md)
+- [Contract](https://support.govdash.com/docs/contract.md)
+- [Contract Dashboard](https://support.govdash.com/docs/contract-cloud-dashboard.md): Explore the Contract Cloud dashboard for flexible views, filters, and the Award Assistant to manage your contract inventory and past performance effectively.
+- [Uploading Your Contracts](https://support.govdash.com/docs/uploading-your-contracts.md): Streamline contract management with GovDash's Contract Cloud, ensuring seamless integration of past performance records and document uploads for proposals.
+- [Task Orders and Subcontracts](https://support.govdash.com/docs/task-orders.md): Easily upload and link task orders to parent contracts on GovDash. Streamline your contract management with our step-by-step guide.
+- [Managing Your Contract Inventory](https://support.govdash.com/docs/updating-your-contract-inventory.md): Ensure your GovDash contract inventory is complete by uploading key documents like the main contract, PWS/SOW, and supporting files for better performance matching.
+- [Customizing Contracts](https://support.govdash.com/docs/customizing-contract-cloud.md)
+- [Merging Contracts](https://support.govdash.com/docs/merging-contracts.md): Merging contracts combines multiple agreements while preserving key data, documents, and relationships, enhancing contract management efficiency.
+- [Dynamic Reporting](https://support.govdash.com/docs/dynamic-reporting-3.md)
+- [Data Library](https://support.govdash.com/docs/data-library.md)
+- [Uploading and Managing Documents](https://support.govdash.com/docs/uploading-documents.md): Manage your documents in the GovDash Data Library: upload, rename, and delete files like resumes and technical documentation easily.
+- [Document Types](https://support.govdash.com/docs/document-types.md)
+- [People, Companies, and Agencies](https://support.govdash.com/docs/people-companies-and-agencies.md): Organize and access key personnel, companies, and agencies with GovDash's Data Library, streamlining document management and updates effortlessly.
+- [Staffing Pool & Resume Management](https://support.govdash.com/docs/staffing-pool.md)
+- [Document Tagging](https://support.govdash.com/docs/document-tagging.md): Organize your Data Library with GovDash by creating, editing, and deleting tags for documents, enhancing your filtering and management capabilities.
+- [Tasks](https://support.govdash.com/docs/tasks.md)
+- [Creating and Managing Tasks](https://support.govdash.com/docs/creating-and-managing-tasks.md)
+- [Customizing Tasks](https://support.govdash.com/docs/customizing-tasks.md)
+- [Dash](https://support.govdash.com/docs/dash.md)
+- [Creating Custom Documents](https://support.govdash.com/docs/creating-custom-documents-1.md): Generate quality control plans and capability statements effortlessly with Custom Documents in GovDash. Access, create, and download in Word format!
+- [Using Dash](https://support.govdash.com/docs/using-dash.md): Dash is your AI assistant for creating documents, summarizing opportunities, and managing past performance—all accessible with a click!
+- [Dash Agents](https://support.govdash.com/docs/dash-agents.md)
+- [Dash Memory & Skills](https://support.govdash.com/docs/dash-memory-skills.md)
+- [Custom/Saved Prompts](https://support.govdash.com/docs/custom-prompts.md)
+- [Using Dash in Slack](https://support.govdash.com/docs/using-dash-in-slack.md)
+- [Dash Browser Extension](https://support.govdash.com/docs/dash-browser-extension-1.md)
+- [Dash in Microsoft Office](https://support.govdash.com/docs/word-assistant.md)
+- [Dash in Microsoft Office Setup & Admin Deployment Guides](https://support.govdash.com/docs/dash-setup-guides.md)
+- [Dash in Microsoft Office Setup Guide](https://support.govdash.com/docs/word-assistant-setup-guide.md): Set up the GovDash Word Assistant add-in in Microsoft Word 2016, 2019, 2021, or 365 with our easy guide for seamless integration and support.
+- [Dash Office Add-in Deployment Guide](https://support.govdash.com/docs/word-assistant-add-in-deployment-guide.md): Install the GovDash Word Assistant add-in for Microsoft Word 2016, 2019, 2021, and 365 with easy deployment steps and manage permissions effortlessly.
+- [Dash in Excel](https://support.govdash.com/docs/dash-in-excel.md)
+- [Using Dash in Excel](https://support.govdash.com/docs/using-dash-in-excel.md)
+- [Dash in PowerPoint](https://support.govdash.com/docs/dash-in-powerpoint.md)
+- [Using Dash in PowerPoint](https://support.govdash.com/docs/using-dash-in-powerpoint.md)
+- [Dash in Word](https://support.govdash.com/docs/dash-in-word.md)
+- [Using Dash in Microsoft Word](https://support.govdash.com/docs/using-the-word-assistant.md): Enhance your proposal development with the GovDash Word Assistant, featuring AI tools for content creation, graphics, and efficient reviews in Microsoft Word.
+- [Utilizing Microsoft SmartArt for your Graphics](https://support.govdash.com/docs/utilizing-microsoft-smartart-for-your-graphics.md): Enhance your proposals with Microsoft SmartArt using GovDash Word Assistant for eye-catching visuals, customizable graphics, and impactful presentations.
+- [Prompting Best Practices](https://support.govdash.com/docs/prompting-best-practices.md): Enhance your proposal writing with AI tips on using Word Assistant prompts for clarity, consistency, and customer-focused content.
+- [Dash in Microsoft Office Troubleshooting](https://support.govdash.com/docs/word-assistant-troubleshooting.md): Troubleshoot GovDash Word Assistant issues in Microsoft Word, including loading problems and table of contents inaccuracies. Get support for supported versions.
+- [Custom Documents](https://support.govdash.com/docs/custom-documents.md)
+- [Creating Custom Documents](https://support.govdash.com/docs/creating-custom-documents.md): Generate quality control plans and capability statements effortlessly with Custom Documents in GovDash. Access, create, and download in Word format!
+- [Analytics and Reports](https://support.govdash.com/docs/analytics-and-reports.md)
+- [Using the Reports Center](https://support.govdash.com/docs/using-reports-center.md): Discover how to maximize data analysis with the GovDash Reports Center. Customize views, explore insightful metrics, and optimize your decision-making.
+- [Dynamic Reporting](https://support.govdash.com/docs/dynamic-reporting.md)
+- [Settings](https://support.govdash.com/docs/settings.md)
+- [Adding New Members To Your GovDash Team](https://support.govdash.com/docs/adding-new-members-to-your-govdash-team-1.md)
+- [Setting up Passkeys](https://support.govdash.com/docs/passkeys.md)
+- [Two-Factor Authentication (2FA) Setup](https://support.govdash.com/docs/two-factor-authentication-2fa-setup.md)
+- [Roles & Permissions](https://support.govdash.com/docs/roles-permissions.md)
+- [Changing Your Personal Profile and Team Information](https://support.govdash.com/docs/changing-personal-team-information.md)
+- [Notifications](https://support.govdash.com/docs/notifications.md)
+- [Multi-Entity Management](https://support.govdash.com/docs/multi-entity-management.md)
+- [Customizing the Pipeline and Capture Settings](https://support.govdash.com/docs/customizing-the-pipeline-1.md): Customize your pipeline view with Kanban or Table options, rename phases, and adjust colors for better opportunity tracking and management.
+- [Integrations](https://support.govdash.com/docs/integrations.md)
+- [Webhooks](https://support.govdash.com/docs/webhooks.md)
+- [Salesforce Pipeline Integration Setup & Troubleshooting](https://support.govdash.com/docs/salesforce-pipeline-integration-setup.md): Connect Salesforce to GovDash seamlessly with our integration guide. Learn about sync options, setup steps, and linking phases for efficient management.
+- [Microsoft SharePoint Integration Setup](https://support.govdash.com/docs/microsoft-sharepoint-integration-setup.md): Set up SharePoint integration in GovDash with admin permissions, upload files, and sync documents seamlessly for efficient proposal management.
+- [GSA eBuy Integration Setup](https://support.govdash.com/docs/gsa-ebuy-integration-setup.md)
+- [GovWin Integration](https://support.govdash.com/docs/govwin-integration.md)
+- [Okta Setup](https://support.govdash.com/docs/okta-setup.md)
+- [Microsoft Entra/365 Single Sign-On (SSO) Setup](https://support.govdash.com/docs/microsoft-entra365-single-sign-on-sso-setup.md): Set up Microsoft Entra SSO for GovDash easily. Admins grant consent, authenticate, and ensure user access with Microsoft email addresses.
+- [Google Workspace Single Sign-On (SSO) Setup](https://support.govdash.com/docs/google-workspace-single-sign-on-sso-setup.md)
+- [Dash Browser Extension](https://support.govdash.com/docs/dash-browser-extension.md)
+- [Slack Integration Setup](https://support.govdash.com/docs/slack-integration-setup.md)
+- [Microsoft Teams Integration](https://support.govdash.com/docs/microsoft-teams-integration.md)
+- [Dash in Microsoft Office Setup Guide](https://support.govdash.com/docs/word-assistant-set-up-guide.md): Set up the GovDash Word Assistant add-in in Microsoft Word 2016, 2019, 2021, or 365 with our easy guide for seamless integration and support.
+- [Dash Office Add-in Deployment Guide](https://support.govdash.com/docs/word-assistant-add-in-deployment-guide-1.md): Install the GovDash Word Assistant add-in for Microsoft Word 2016, 2019, 2021, and 365 with easy deployment steps and manage permissions effortlessly.
+- [Security Information](https://support.govdash.com/docs/security-information.md)
+- [GovDash Security Policies and FAQ](https://support.govdash.com/docs/govdash-security-policies-faq.md): Learn about GovDash's security policies, encryption methods, data access controls, and how your data is securely managed and isolated in the cloud.
+- [GovDash Secure Configuration Guide](https://support.govdash.com/docs/secure-configuration-guide.md)
+- [Dash Browser Extension Integration Security Documentation](https://support.govdash.com/docs/dash-browser-extension-security-documentation.md)
+- [ProTeam Corner](https://support.govdash.com/docs/proteam-corner.md)
+- [The Power of Key Personnel in Government Proposals — And How to Optimize Their Impact with GovDash](https://support.govdash.com/docs/the-power-of-key-personnel-in-government-proposals-and-how-to-optimize-their-impact-with-govdash.md): Unlock the potential of key personnel in government proposals with GovDash, optimizing resumes for compliance and impact to boost your success.
+- [Mastering the Word Assistant: From Pink Team Draft to Polished Submission](https://support.govdash.com/docs/mastering-the-word-assistant.md)
+- [Anatomy of an AI Prompt](https://support.govdash.com/docs/anatomy-of-an-ai-prompt.md)
+- [The Most Important Color Review You're Skipping, and Why It's Costing You Wins (Even With GovDash)](https://support.govdash.com/docs/the-most-important-color-review-youre-skipping-and-why-its-costing-you-wins-even-with-govdash.md)
+- [Effortless Opportunity Tracking with our eBuy Integration](https://support.govdash.com/docs/effortless-opportunity-tracking-with-our-ebuy-integration.md)
+- [From Gut Feelings to Game Plans: Using the Capabilities Matrix in Capture](https://support.govdash.com/docs/using-the-capabilities-matrix-in-capture-cloud.md)
+- [Tackling Data Calls in Minutes](https://support.govdash.com/docs/use-word-assistant-to-tackle-data-calls-in-minutes.md): Streamline your data calls with GovDash's Word Assistant, generating accurate, metrics-backed responses directly in your document for efficient collaboration.
+- [Introducing Dash: Your On-Demand Proposal Assistant in GovDash](https://support.govdash.com/docs/introducing-dash-your-on-demand-proposal-assistant-in-govdash.md)
+- [Mastering Document Tagging in GovDash](https://support.govdash.com/docs/mastering-document-tagging-in-govdash.md): Master file tagging in GovDash to organize your data library, enhance document retrieval, and improve team collaboration for proposal management success.
+- [Proposal Refinement: Core Four Principles for Better Proposals](https://support.govdash.com/docs/proposal-refinement-core-four-principles-for-better-proposals.md)

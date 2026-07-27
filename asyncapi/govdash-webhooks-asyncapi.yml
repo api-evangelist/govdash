@@ -1,0 +1,88 @@
+asyncapi: 3.0.0
+info:
+  title: GovDash Webhooks
+  version: v1
+  description: >-
+    Generated AsyncAPI view of GovDash's documented outbound webhook events for
+    Opportunity lifecycle changes. Event names, delivery mechanism (Svix), and
+    signature verification are taken verbatim from
+    https://support.govdash.com/docs/webhooks. Per-event payload schemas are
+    published in GovDash's in-app Event Catalog and are NOT reproduced here (not
+    fabricated); payloads are modeled as opaque objects.
+  contact:
+    name: GovDash Support
+    url: https://support.govdash.com/docs/webhooks
+  x-apievangelist:
+    generated: '2026-07-19'
+    method: generated
+    source: https://support.govdash.com/docs/webhooks
+    note: >-
+      GovDash does not publish an AsyncAPI document. This spec is an API
+      Evangelist generation from the documented webhook event catalog.
+defaultContentType: application/json
+channels:
+  opportunityEvents:
+    address: '{subscriberEndpoint}'
+    description: >-
+      Subscriber-provided HTTPS endpoint registered in Settings > Webhooks.
+      GovDash (via Svix) POSTs opportunity events to this endpoint.
+    parameters:
+      subscriberEndpoint:
+        description: The receiving endpoint URL configured per organization.
+    messages:
+      opportunityCreate:
+        $ref: '#/components/messages/opportunityCreate'
+      opportunityUpdate:
+        $ref: '#/components/messages/opportunityUpdate'
+      opportunityDelete:
+        $ref: '#/components/messages/opportunityDelete'
+operations:
+  receiveOpportunityEvents:
+    action: receive
+    channel:
+      $ref: '#/channels/opportunityEvents'
+    summary: Receive GovDash opportunity webhook events.
+    messages:
+    - $ref: '#/channels/opportunityEvents/messages/opportunityCreate'
+    - $ref: '#/channels/opportunityEvents/messages/opportunityUpdate'
+    - $ref: '#/channels/opportunityEvents/messages/opportunityDelete'
+components:
+  messages:
+    opportunityCreate:
+      name: v1.opportunity.create
+      title: Opportunity created
+      summary: Emitted when a new opportunity is created.
+      contentType: application/json
+      payload:
+        type: object
+        description: >-
+          Payload schema published in the GovDash Event Catalog (in-app);
+          not reproduced here.
+    opportunityUpdate:
+      name: v1.opportunity.update
+      title: Opportunity updated
+      summary: Emitted when an existing opportunity is updated.
+      contentType: application/json
+      payload:
+        type: object
+        description: >-
+          Payload schema published in the GovDash Event Catalog (in-app);
+          not reproduced here.
+    opportunityDelete:
+      name: v1.opportunity.delete
+      title: Opportunity deleted
+      summary: Emitted when an opportunity is deleted.
+      contentType: application/json
+      payload:
+        type: object
+        description: >-
+          Payload schema published in the GovDash Event Catalog (in-app);
+          not reproduced here.
+  securitySchemes:
+    svixSignature:
+      type: httpApiKey
+      name: svix-signature
+      in: header
+      description: >-
+        Payloads are signed by Svix. Verify authenticity with the Svix Signing
+        Secret from the GovDash dashboard using standard Svix signature checks.

@@ -1,0 +1,25 @@
+generated: '2026-07-19'
+method: searched
+source: https://www.govdash.com/security
+probe: false
+url: https://www.govdash.com/security
+trust_contact: trust@govdash.com
+certifications:
+- FedRAMP Moderate Equivalency
+- FedRAMP Ready (fedramp.gov Marketplace)
+- NIST SP 800-53 (Moderate baseline aligned)
+- DFARS 252.204-7012
+- CMMC (referenced)
+compliance_program:
+  fedramp_marketplace: https://www.fedramp.gov/marketplace/products/FR2617333263/
+  cui_handling: NIST SP 800-53 aligned; storage, processing, and transmission
+  data_residency: All team members US-based; no offshore data handling or support
+security_controls:
+- FIPS-validated cryptography
+- TLS 1.2+ for data in transit
+- AES-256 for data at rest
+- 24/7 security monitoring
+- C3PAO audited
+evidence:
+- source: https://www.govdash.com/security
+  keywords: [fedramp, nist 800-53, dfars, cmmc, fips, cui]
