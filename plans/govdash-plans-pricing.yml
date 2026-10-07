@@ -1,0 +1,34 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://www.govdash.com/pricing
+sources:
+- https://www.govdash.com/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: negotiated
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: false
+note: Page lists three tiers but no numeric prices; states 'Talk to sales for seat prices and credit allotments.'
+plan_count: 3
+plans:
+- name: Starter
+  price_text: Get started with Dash
+  period: none
+  unit: seat
+  included_quota: 1 Full seat to start; Unlimited Flex seats; Generous monthly credits per Full seat
+- name: Growth
+  price_text: Talk to sales
+  period: none
+  unit: seat
+  included_quota: 8+ Full seats, annual commitment, unlimited Flex seats
+- name: Enterprise
+  price_text: Let’s talk
+  period: none
+  included_quota: Custom seats; credits defined in your agreement
