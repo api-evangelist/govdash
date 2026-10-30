@@ -64,6 +64,111 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Govdash is a company surfaced as a portfolio company of northzone and added to the API Evangelist network as a stub for enrichment. Sector: enterprise; ai. This profile is a lead awaiting the enrichment pipeline.
+GovDash is an end-to-end AI platform for government contracting (GovCon), helping companies discover, capture, price, propose, and manage federal, state, local, and education contracts. Its product suite spans Discover (automated bid matching from SAM.gov, GSA eBuy, GovWin, PIEE, and SLED portals), Capture (a GovCon CRM and pipeline), Pricer, Proposal (compliant proposal generation), and Contract lifecycle management, unified by Dash, an AI agent that synthesizes data and executes workflows. GovDash is FedRAMP Ready / Moderate-equivalent, NIST SP 800-53 and DFARS 252.204-7012 aligned for CUI, and integrates with Salesforce, SharePoint, Okta/Google SSO, Slack, and Microsoft Office. It exposes outbound webhooks (Svix) for opportunity lifecycle events. Founded 2021 (YC W22); raised a $30M Series B in January 2026.
 
-Backed by: northzone — https://govdash.com
+**Areas:** Company · Government Contracting · GovCon · Artificial Intelligence · Proposal Management · Capture Management · Public Sector · Enterprise
+
+## Govdash on APIs.io
+
+Everything profiled for Govdash is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/govdash/](https://apis.io/providers/govdash/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (2)
+
+Event-driven and webhook contracts.
+
+- [Govdash Webhooks](https://apis.io/asyncapis/govdash/govdash-webhooks/)
+- [GovDash Webhooks](https://apis.io/asyncapis/govdash/govdash-webhooks-asyncapi/)
+
+#### Event channels (1)
+
+Individual events and webhooks the provider emits.
+
+- [{subscriberEndpoint}](https://apis.io/channels/govdash/subscriberendpoint/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Govdash Domain Security](https://apis.io/security/govdash/govdash-domain-security/)
+- [Govdash Trust Center](https://apis.io/security/govdash/govdash-trust-center/)
+- [Govdash Vulnerability Disclosure](https://apis.io/security/govdash/govdash-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Govdash Plans Pricing](https://apis.io/plans/govdash/govdash-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://govdash.com)
+- [Documentation](https://support.govdash.com/docs)
+- [Pricing](https://www.govdash.com/pricing)
+- [Sign up](https://www.govdash.com/book-a-demo)
+- [Support](https://support.govdash.com)
+- [Blog](https://www.govdash.com/blog)
+- [Security](https://www.govdash.com/vulnerability-report)
+- [Compliance](https://www.govdash.com/security)
+- [Terms of service](https://www.govdash.com/pages/terms-of-service)
+- [Privacy policy](https://www.govdash.com/pages/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 43.7** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 39.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 18.4 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 92.1 |
+
+**Agent readiness 17.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | yes |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 27.3** — Government & Public Sector
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/govdash/](https://apis.io/providers/govdash/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Govdash: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/govdash/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
